@@ -1,4 +1,3 @@
-# raghavsriva.github.io
 Installation
 1) Upload important-information-sharing to the directory of your choice. (E.g : /var/www/html/important-information-sharing)
 
